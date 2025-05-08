@@ -36,6 +36,7 @@ coding!
 
 - Ruqaiya Electricwala: [GitHub](https://github.com/ruqaiyae) / [LinkedIn](https://www.linkedin.com/in/ruqaiya-electricwala/)
 - Noah Cordova: [GitHub](https://github.com/mrcordova) / [LinkedIn](https://linkedin.com/in/noah-cordova)
+- Wataru Okada: [GitHub](https://github.com/WataTechJP) / [LinkedIn](https://www.linkedin.com/in/wataru-okada-509319334/)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
