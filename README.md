@@ -35,7 +35,7 @@ your repo access and to practice PR'ing with your team *before* you start
 coding!
 
 - Ruqaiya Electricwala: [GitHub](https://github.com/ruqaiyae) / [LinkedIn](https://www.linkedin.com/in/ruqaiya-electricwala/)
-- Teammate name #2: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
+- Noah Cordova: [GitHub](https://github.com/mrcordova) / [LinkedIn](https://linkedin.com/in/noah-cordova)
 
    ...
 - Teammate name #n: [GitHub](https://github.com/ghaccountname) / [LinkedIn](https://linkedin.com/in/liaccountname)
